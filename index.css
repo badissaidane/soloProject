@@ -1,0 +1,97 @@
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 72px;
+  background: -webkit-linear-gradient(#fffd8d, #8B8000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+body{
+    background-image: url("/BackGround/l1.jpg");
+    background-size: cover;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    width: 1000px;
+    height: 73px;
+}
+  
+  .topnav h2 {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-right:1px solid #bbb;
+  }
+  
+  .topnav h2:hover {
+    background-color: #8B8000;
+    color: black;
+  }
+  #navBar{
+    display: flex;
+    justify-content: center;
+  }
+  img{
+    width: 450px;
+    height: 440px;
+  }
+  #DV{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #SD{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #CE{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #GN{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #MO{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #MT{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #PO{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #VG{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #VR{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  h2{
+    margin-top: 0;
+    margin-bottom: 0;
+    
+  }
+  
